@@ -20,7 +20,7 @@ namespace AspSession42.Controllers
                     Description="В монгольской пустыне Гоби палеонтологи" +
                     " обнаружили гигантские следы динозавра, сравнимые по размеру с автобусом. " +
                     "Во время раскопок был обнаружен отпечаток размером 92 сантиметра.",
-                    Image="images/dino.jpg"
+                    Image="images/dino.jpeg"
                 },
                 new New()
                 {
@@ -34,7 +34,7 @@ namespace AspSession42.Controllers
                     "Федеральный оператор – Институт развития профессионального образ" +
                     "ования. Мероприятия проходят при поддержке Правительства Российской " +
                     "Федерации.",
-                    Image="images/prof.jpg"
+                    Image="images/prof.jpeg"
                 },
                 new New()
                 {
@@ -44,7 +44,7 @@ namespace AspSession42.Controllers
                     " войне 1941-1945 годов\" получат все вете" +
                     "раны Великой Отечественной войны, заявил президент " +
                     "РФ Владимир Путин.",
-                    Image="images/prof.jpg"
+                    Image="images/victory.jpeg"
                 }
             };
         }
